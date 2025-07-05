@@ -8,8 +8,20 @@
 
   <!-- Header Wave Banner -->
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prince%20Sherathiya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F094FF&background=00000000&center=true&vCenter=true&width=800&height=70&lines=Prince+Sherathiya;AI+Engineer+%7C+Full-Stack+Developer+%7C+Problem+Solver" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-%2358A6FF.svg?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Dev-%23FF6B6B.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-%23F7C52D.svg?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stock_Market-%2300A86B.svg?style=for-the-badge&logo=chart&logoColor=white" />
+</p>
+
 
   <!-- Typing Animation -->
   <div align="center" style="margin-top:-30px;">
