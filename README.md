@@ -8,7 +8,7 @@
 
   <!-- Header Wave Banner -->
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/Aicodebyprince/main/Header1.gif" 
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/Aicodebyprince/main/Final Header.gif" 
        alt="Prince Sherathiya Header" 
        width="60%" 
        height="50%"
@@ -67,23 +67,11 @@ achievements:
     <h3>Frontend</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
     <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=python,php,java,cs,nodejs,mysql,asp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,nodejs,mysql,asp&theme=dark" />
     <h3>Dev & Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma&theme=dark" />
     <h3>AI & Productivity</h3>
     <img src="https://skillicons.dev/icons?i=ai&theme=dark" />
-  </div>
-
-  <hr style="margin: 40px auto; width: 80%; border-color: #333;" />
-
-  <!-- GitHub Analytics -->
-  <h2 align="center">📊 GitHub Stats</h2>
-
-  <div align="center">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrinceSherathiya&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrinceSherathiya&layout=compact&theme=github_dark" />
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSherathiya&theme=github-dark-blue" />
   </div>
 
   <hr style="margin: 40px auto; width: 80%; border-color: #333;" />
