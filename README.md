@@ -8,8 +8,12 @@
 
   <!-- Header Wave Banner -->
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F094FF&background=00000000&center=true&vCenter=true&width=800&height=70&lines=Prince+Sherathiya;AI+Engineer+%7C+Full-Stack+Developer+%7C+Problem+Solver" />
-</div>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/Aicodebyprince/main/Header.gif" 
+       alt="Prince Sherathiya Header" 
+       width="60%" 
+       height="50%"
+       style="border-radius:12px;"/>
+   </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1" />
