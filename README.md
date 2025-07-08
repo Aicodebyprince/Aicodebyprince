@@ -10,8 +10,7 @@
   <div align="center">
   <img src="https://raw.githubusercontent.com/Aicodebyprince/Aicodebyprince/main/Final Header.gif" 
        alt="Prince Sherathiya Header" 
-       width="60%" 
-       height="50%"
+       width="100%" 
        style="border-radius:12px;"/>
    </div>
 
