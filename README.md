@@ -8,7 +8,7 @@
 
   <!-- Header Wave Banner -->
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/Aicodebyprince/main/Final Header.gif" 
+  <img src="https://github.com/Aicodebyprince/Aicodebyprince/blob/main/Prince%20Sherathiya%20(1).gif" 
        alt="Prince Sherathiya Header" 
        width="100%" 
        style="border-radius:12px;"/>
