@@ -1,379 +1,517 @@
-
-
-<h1 align="center">Prince Sherathiya</h1>
+# Prince Sherathiya
 
 <p align="center">
   <strong>Founder @ WebTurnerAI</strong>
   &nbsp;&middot;&nbsp;
-  <strong>Backend Systems &amp; Workflow Automation</strong>
+  <strong>Backend Systems Engineer</strong>
+  &nbsp;&middot;&nbsp;
+  <strong>Workflow Automation Builder</strong>
 </p>
 
 <p align="center">
-  <code>princebuilds.vercel.app</code>
+  <a href="https://princebuilds.vercel.app">Portfolio</a>
   &nbsp;&middot;&nbsp;
-  <code>linkedin.com/in/princesherathiya</code>
+  <a href="https://linkedin.com/in/princesherathiya">LinkedIn</a>
   &nbsp;&middot;&nbsp;
-  <code>princesherathiya123@gmail.com</code>
+  <a href="mailto:princesherathiya123@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <a href="#systems">Systems</a> &middot;
-  <a href="#founder">Founder</a> &middot;
-  <a href="#metrics">Metrics</a> &middot;
-  <a href="#projects">Projects</a> &middot;
-  <a href="#algorithms">Algorithms</a> &middot;
-  <a href="#architecture">Architecture</a> &middot;
-  <a href="#stack">Stack</a> &middot;
-  <a href="#focus">Focus</a>
+  <a href="#executive-snapshot">Snapshot</a> &middot;
+  <a href="#live-product-preview">Preview</a> &middot;
+  <a href="#overview">Overview</a> &middot;
+  <a href="#operating-philosophy">Philosophy</a> &middot;
+  <a href="#engineering-focus">Engineering Focus</a> &middot;
+  <a href="#founder-webturnerai">Founder</a> &middot;
+  <a href="#impact-metrics">Impact</a> &middot;
+  <a href="#featured-systems">Systems</a> &middot;
+  <a href="#architecture-and-systems-thinking">Architecture</a> &middot;
+  <a href="#automation-and-algorithm-intelligence">Algorithms</a> &middot;
+  <a href="#engineering-stack">Stack</a> &middot;
+  <a href="#current-focus">Focus</a>
 </p>
-
-<br/>
 
 ---
+
+## Executive Snapshot
+
+| Perspective | What You See Here |
+|:--|:--|
+| **For Recruiters** | Production-ready backend/full-stack systems, role-based architecture, measurable workflow impact |
+| **For Founders** | Execution-first product thinking, operational bottleneck solving, fast shipping with technical depth |
+| **For Clients** | Practical automation systems that reduce coordination overhead and improve reporting visibility |
+
+## Live Product Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Dashbaord.png" width="32%" alt="Aura dashboard"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Analytics.png" width="32%" alt="Aura analytics dashboard"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Groups.png" width="32%" alt="Aura team dashboard"/>
+</p>
+<p align="center"><em>Real-time dashboard views from shipped operational systems</em></p>
 
 ## Overview
 
-I build operational software — systems that replace manual coordination, eliminate repetitive workflows, and give organizations visibility into their own operations.
+I build operational software that removes manual coordination from day-to-day execution.
 
-My work spans backend infrastructure, real-time dashboards, AI-assisted tooling, and full-stack product engineering. Each project ships with measurable outcomes: reduced cycle times, automated decision steps, and systems that handle production traffic without ceremony.
+My work sits at the intersection of backend systems, workflow automation, AI-assisted tooling, and full-stack product delivery. I prioritize software that produces measurable operational gains: faster cycle times, fewer manual handoffs, and clearer decision visibility.
 
-Currently pursuing an MSc in Computer Science while shipping production software for real users through WebTurnerAI.
+I am currently pursuing an MSc in Computer Science while shipping production software through **WebTurnerAI**.
 
-<br/>
+## Operating Philosophy
 
-## Systems
+I approach products as operating systems for real teams.
 
-The work clusters into four engineering domains:
+1. Start from an expensive manual workflow, not from a feature list.
+2. Design state and permissions before UI details.
+3. Keep deterministic logic for critical execution paths.
+4. Use AI as a bounded transformation layer, not as source of truth.
+5. Measure improvements with practical operational metrics.
 
-| Domain | Focus | Evidence |
-|:-------|:------|:---------|
-| **Workflow Automation** | Replace manual processes with orchestrated pipelines | CMMI Navigator reduced doc prep by 87% |
-| **Real-Time Dashboards** | Live data surfaces for operational decisions | Aura AI handles 13K+ ops in 2 hours |
-| **AI-Assisted Tooling** | Practical LLM integration for non-trivial tasks | Genkit flows for action items, content gen, theme eval |
-| **Production Full-Stack** | End-to-end apps with auth, DB, storage, and role control | College app with 3 roles, 20+ pages, Firebase infra |
+This approach keeps systems reliable, explainable, and useful under production constraints.
 
-<br/>
+## Engineering Focus
+
+| Domain | What I Build | Typical Outcome |
+|:--|:--|:--|
+| **Backend Systems** | Auth models, role resolution, data access boundaries, API-connected logic | Reliable operational behavior under multi-role usage |
+| **Workflow Automation** | Structured workflow engines, doc/export pipelines, action-generation flows | Reduced manual preparation and coordination overhead |
+| **Operational Dashboards** | Real-time views for teams, managers, and admins | Faster decisions and clearer execution state |
+| **AI-Assisted Tooling** | Genkit-based flows, typed schemas, controlled model integration | Practical AI gains without pipeline fragility |
+| **Full-Stack Product Engineering** | End-to-end systems from UX to deployment | Production-ready systems with direct business value |
 
 ## Founder: WebTurnerAI
 
-WebTurnerAI builds operational software for small and mid-size organizations. The focus is on workflow automation, client management, and internal dashboards — tools that directly reduce coordination overhead.
+WebTurnerAI is my operating vehicle for building execution-focused software.
 
-**Direction:** Every product solves a specific operational bottleneck. No platforms, no marketplaces — just focused tools that eliminate a single, expensive manual process.
+### What it stands for
 
-<br/>
+- Systems over noise.
+- Workflow clarity over feature bloat.
+- Shipping value over speculative architecture.
 
-## Metrics
+### Product direction
+
+WebTurnerAI focuses on software for organizations that need:
+
+1. Better internal workflow orchestration.
+2. Visibility across active operations.
+3. Faster turnaround on repetitive process-heavy work.
+
+## Impact Metrics
+
+These are direct system-level outcomes from active projects.
 
 | Metric | Value | System |
-|:-------|:------|:-------|
-| Workflow reduction | 87% (8h to 1h) | CMMI Navigator |
-| Operations processed | 13,000+ in 2 hours | Aura AI Task Manager |
-| Priority factors | 5-weight algorithm | Aura AI task sorter |
-| UI sections | 18 interactive components | CMMI Navigator SPA |
-| Role dashboards | 3 (Admin, Teacher, Student) | College Management App |
-| Hackathon wins | 2+ with shipped AI products | Aura AI, multiple |
-| Institutional pages | 20+ content pages | College Management App |
+|:--|:--|:--|
+| Workflow compression | 8h to 1h (87% reduction) | CMMI Navigator |
+| Execution volume | 13,000+ operations in 2 hours | Aura AI Task Manager |
+| Priority model depth | 5-factor weighted sorter | Aura AI Task Manager |
+| Unified presentation architecture | 18 sections driven by one state model | CMMI Navigator |
+| Role-based operation modes | Visitor, Student, Teacher, Admin | College Management App |
+| Institutional content coverage | 20+ pages | College Management App |
+| Algorithm consistency discipline | 40 consecutive days | LeetCode Daily |
 
-Every metric corresponds to a specific system with measurable, auditable data.
+All metrics are tied to named repositories and implementation artifacts.
 
-<br/>
+## Featured Systems
 
-## Projects
+### 1) Aura AI Task Manager
+
+**Stack:** TypeScript, Next.js, Firebase, Genkit, Gemini 2.5 Flash, Framer Motion, fl_chart
+
+**Operational problem**
+
+Team prioritization usually degrades into manual triage. Deadlines, dependencies, effort, and value compete in unstructured ways.
+
+**Engineering implementation**
+
+Aura AI uses a two-layer intelligence model:
+
+1. Deterministic ranking and planning engine.
+2. Generative AI assistant for natural-language task ingestion and support.
+
+**Why it matters**
+
+This architecture preserves execution reliability while still providing flexible AI interaction.
+
+**Recruiter signal**
+
+Demonstrates algorithm design, real-time state handling, and production-grade product UX.
+
+**Founder signal**
+
+Shows ability to convert a coordination problem into a scalable execution system.
+
+**Links**
+
+- Repository: <https://github.com/Aicodebyprince/aura_ai_task_manager>
+
+---
+
+### 2) CMMI Navigator (`pptautomation`)
+
+**Stack:** TypeScript, Next.js, Genkit, Tailwind CSS, ShadCN UI, docx, pptxgenjs
+
+**Operational problem**
+
+CMMI kickoff preparation is traditionally manual, repetitive, and time-expensive.
+
+**Engineering implementation**
+
+One typed `CMMIData` model drives:
+
+1. 18 interactive sections.
+2. 3 AI orchestration flows.
+3. Browser-side DOCX/PPTX export pipelines.
+
+**Why it matters**
+
+A single source of truth keeps UI, AI outputs, and exported artifacts synchronized.
+
+**Recruiter signal**
+
+Strong state modeling, typed AI pipeline integration, and practical automation architecture.
+
+**Founder signal**
+
+Directly converts consulting effort into reusable productized workflow infrastructure.
+
+**Links**
+
+- Repository: <https://github.com/Aicodebyprince/pptautomation>
+
+---
+
+### 3) College Management App
+
+**Stack:** Flutter, Dart, Firebase Auth, Cloud Firestore, Firebase Storage, SharedPreferences, fl_chart
+
+**Operational problem**
+
+Academic workflows are usually fragmented across separate systems for attendance, syllabus, events, and institutional content.
+
+**Engineering implementation**
+
+Unified role-based platform with:
+
+1. Auth-driven role routing.
+2. Real-time data sync across user types.
+3. Session lifecycle logic with controlled expiry.
+
+**Why it matters**
+
+It centralizes institutional operations while preserving role-specific views and access boundaries.
+
+**Recruiter signal**
+
+Proof of role-based system design, mobile product execution, and real-time backend integration.
+
+**Founder signal**
+
+Demonstrates ability to unify fragmented operations under one maintainable software surface.
+
+**Links**
+
+- Repository: <https://github.com/Aicodebyprince/College-Management-App>
+
+---
+
+### 4) Prince Portfolio
+
+**Stack:** Next.js 15, TypeScript, Tailwind CSS, Framer Motion, Resend
+
+**Operational problem**
+
+Most portfolio surfaces either look polished but shallow, or deep but unreadable.
+
+**Engineering implementation**
+
+Narrative-driven site architecture with:
+
+1. Typed section and routing system.
+2. Motion system for hierarchy and flow.
+3. API-backed contact workflow and SEO structure.
+
+**Why it matters**
+
+It communicates founder positioning and engineering depth with product-level UX quality.
+
+**Recruiter signal**
+
+Clear communication architecture plus strong modern frontend implementation quality.
+
+**Founder signal**
+
+Shows product storytelling discipline and brand-to-technical coherence.
+
+**Links**
+
+- Repository: <https://github.com/Aicodebyprince/prince-portfolio>
+- Live: <https://princebuilds.vercel.app>
+
+---
+
+### 5) Codepilot
+
+**Stack:** React 18, TypeScript, Vite 6, Monaco Editor, Tailwind CSS
+
+**Operational problem**
+
+Complex interface behavior in editor-like products requires strong state architecture to stay usable.
+
+**Engineering implementation**
+
+IDE-style UI with tab management, explorer behaviors, resizable panels, and keyboard interaction system.
+
+**Why it matters**
+
+Demonstrates product-level interaction engineering and composable frontend systems thinking.
+
+**Recruiter signal**
+
+Strong evidence of advanced UI state management and interaction-system architecture.
+
+**Founder signal**
+
+Ability to build polished high-complexity interfaces with clear product direction.
+
+**Links**
+
+- Repository: <https://github.com/Aicodebyprince/Codepilot>
+
+---
+
+### 6) Helpful Vault
+
+**Stack:** React, Supabase Auth, Supabase Database, Row-Level Security
+
+**Operational problem**
+
+Users need a secure and searchable system for fragmented personal operational data.
+
+**Engineering implementation**
+
+Vault cards, sticky notes, and categorized retrieval backed by auth-aware row-level access boundaries.
+
+**Why it matters**
+
+Shows practical access-control implementation and secure CRUD product architecture.
+
+**Recruiter signal**
+
+Demonstrates secure data design using auth and row-level access controls.
+
+**Founder signal**
+
+Builds trust-centered utility software with clear everyday operational value.
+
+**Links**
+
+- Repository: <https://github.com/Aicodebyprince/Helpful-Vault>
+
+---
+
+### 7) LeetCode Daily
+
+**Stack:** Python, pattern-based DSA practice
+
+**Operational problem**
+
+Interview prep and algorithm development often fail without consistency and documented reasoning.
+
+**Engineering implementation**
+
+40-day structured pattern progression with explicit complexity analysis.
+
+**Why it matters**
+
+Signals repeatable problem decomposition and algorithmic discipline.
+
+**Recruiter signal**
+
+Consistent complexity-aware coding discipline over a fixed timeline.
+
+**Founder signal**
+
+Reflects execution consistency and systems-thinking mindset under daily constraints.
+
+**Links**
+
+- Repository: <https://github.com/Aicodebyprince/leetcode-daily>
+
+## Screenshot Showcase
 
 ### Aura AI Task Manager
-*Flutter · Firebase · Genkit · Gemini 2.5 Flash · fl_chart*
-
-AI-powered task management with real-time collaboration, drag-drop kanban, and multi-factor priority sorting. Built under hackathon constraints and evolved into a production-grade system serving real users.
-
-**Problem:** Task prioritization in group settings is noisy — deadlines compete with dependencies compete with estimated effort. Standard to-do lists collapse under more than a dozen items.
-
-**Solution:** A single-page app with a 5-factor priority heuristic that produces a ranked queue per user, synced across the team via Firestore real-time listeners. Adding a conversational AI agent (Genkit + Gemini 2.5 Flash) that parses natural language and creates tasks directly.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Dashbaord.png" width="600" alt="Aura AI Dashboard"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Landing%20Page.png" width="310" alt="Aura landing"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Dashbaord.png" width="310" alt="Aura dashboard"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Analytics.png" width="310" alt="Aura analytics"/>
 </p>
-<p align="center">
-  <em>Aura AI task dashboard with kanban, priority scoring, and collaboration</em>
-</p>
+<p align="center"><em>Landing, operations dashboard, and analytics views</em></p>
 
-[Repository](https://github.com/Aicodebyprince/aura_ai_task_manager)
-
----
-
-### Prince Portfolio
-*Next.js 15 · TypeScript · Tailwind CSS · Framer Motion · Resend*
-
-Production portfolio at [princebuilds.vercel.app](https://princebuilds.vercel.app) with IntersectionObserver-based navigation, parallax hero with orbital rings, server-side contact API via Resend, and auto-generated JSON-LD structured data.
-
-**Problem:** Portfolios are either template-driven (no engineering depth) or code-dumps (no narrative). This needed to communicate both engineering quality and product thinking.
-
-**Solution:** A typed Next.js 15 SPA with 8 animated sections, dynamic case study routes, and a live resume page. SEO-optimized with auto-sitemap and structured data.
-
-[Repository](https://github.com/Aicodebyprince/prince-portfolio) &middot; [Live Site](https://princebuilds.vercel.app)
-
----
-
-### College Management App
-*Flutter · Firebase Auth · Cloud Firestore · Firebase Storage · fl_chart*
-
-Role-based academic platform serving 4 user types with per-role views into the same institutional data layer. 20+ pages, 14 reusable components, and real-time Firestore sync.
-
-**Problem:** Academic institutions run 3-5 disconnected systems (attendance software, syllabus PDFs, event notice boards, admission portals, calendar apps). This app consolidates them under a single Firebase backend.
-
-**Solution:** A Flutter app with role detection from Firebase Auth, 5-day session caching via SharedPreferences, and role-specific dashboards. Teacher marks attendance → Firestore snapshot → student dashboard updates within the same frame cycle.
-
-[Repository](https://github.com/Aicodebyprince/College-Management-App)
-
----
-
-### CMMI Navigator (pptautomation)
-*Next.js 14 · Google Genkit · Tailwind CSS · ShadCN UI · docx · pptxgenjs*
-
-AI-powered CMMI implementation kickoff generator. A single form input produces an 18-section kickoff website with real-time preview, AI-generated action items, and one-click DOCX/PPTX export.
-
-**Problem:** A standard CMMI kickoff requires 6-12 hours of manual work — writing the agenda, defining scope, allocating roles, estimating timelines, drafting communication plans, and assembling slides.
-
-**Solution:** A Next.js SPA where one `CMMIData` state object drives all 18 sections, 3 Genkit AI flows, and both export pipelines simultaneously. The AI does not own state — it transforms structured data into structured data that the UI renders deterministically.
+### CMMI Navigator
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/pptautomation/main/docs/PPT1.png" width="600" alt="CMMI Navigator Slide"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/pptautomation/main/docs/PPT1.png" width="300" alt="CMMI output 1"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/pptautomation/main/docs/PPT2.png" width="300" alt="CMMI output 2"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/pptautomation/main/docs/PPT3.png" width="300" alt="CMMI output 3"/>
 </p>
-<p align="center">
-  <em>Generated PowerPoint output from the CMMI Navigator</em>
-</p>
-
-[Repository](https://github.com/Aicodebyprince/pptautomation)
-
----
-
-### Codepilot
-*React 18 · TypeScript · Monaco Editor · Tailwind CSS · Vite 6*
-
-Premium frontend-only AI code editor inspired by VS Code. Multi-tab Monaco editor, expandable file explorer with drag-drop, resizable IDE panels, mock AI assistant, output console with simulated logs, and dark/light theme switching. 12+ interactive panels with keyboard shortcut system.
-
-[Repository](https://github.com/Aicodebyprince/Codepilot)
-
----
-
-### Helpful Vault
-*React · Supabase Auth · Supabase Database · Row-Level Security*
-
-Digital organizer with vault cards (passwords, exams, work, notes), sticky notes with pin functionality, and smart search with tagging. Uses Supabase Row-Level Security for per-user data isolation.
-
-[Repository](https://github.com/Aicodebyprince/Helpful-Vault)
-
----
-
-### LeetCode Daily
-*Python · 40+ problems across 10 DSA patterns*
-
-Systematic DSA practice cataloged by pattern — Arrays, Two Pointers, Sliding Window, Binary Search, Recursion, Linked Lists, Trees, Dynamic Programming, Greedy, and Bit Manipulation. Each solution includes time/space complexity analysis.
-
-[Repository](https://github.com/Aicodebyprince/leetcode-daily)
-
-
-<br/>
-
-## Screenshots
-
-### Aura AI
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Landing%20Page.png" width="340" alt="Aura AI Landing"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Dashbaord.png" width="340" alt="Aura AI Dashboard"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/aura_ai_task_manager/main/public/Analytics.png" width="340" alt="Aura AI Analytics"/>
-</p>
-<p align="center">
-  <em>Landing · Dashboard with priority-scored kanban · Analytics breakdown (fl_chart)</em>
-</p>
-
-### CMMI Navigator (pptautomation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/pptautomation/main/docs/PPT1.png" width="280" alt="Slide 1"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/pptautomation/main/docs/PPT2.png" width="280" alt="Slide 2"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/pptautomation/main/docs/PPT3.png" width="280" alt="Slide 3"/>
-</p>
-<p align="center">
-  <em>Three of seven generated PowerPoint slides from the AI export pipeline</em>
-</p>
+<p align="center"><em>Generated deck artifacts from AI-assisted kickoff workflow</em></p>
 
 ### Prince Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/prince-portfolio/main/public/p1.png" width="340" alt="Portfolio Hero"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Aicodebyprince/prince-portfolio/main/public/P2.png" width="340" alt="Portfolio Projects"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/prince-portfolio/main/public/p1.png" width="420" alt="Portfolio hero"/>
+  <img src="https://raw.githubusercontent.com/Aicodebyprince/prince-portfolio/main/public/P2.png" width="420" alt="Portfolio projects"/>
 </p>
-<p align="center">
-  <em>Parallax hero with metric badges · Dynamic case study sections</em>
-</p>
+<p align="center"><em>Founder narrative and project storytelling surface</em></p>
 
-<br/>
+If you are scanning quickly: the top **Live Product Preview** section is the primary visual summary.
 
-## Algorithms and Automation Intelligence
+## Architecture and Systems Thinking
 
-### 5-Factor Priority Sorter
-
-The Aura AI task sorter ranks every task using a weighted composite score:
-
-```
-score = (w1 * deadline_proximity) + (w2 * dependency_count) 
-        + (w3 * value_estimate) + (w4 * effort_inverse) 
-        + (w5 * blocker_penalty)
-```
-
-Each factor is normalized to a 0-1 scale before weighting. This produces a single ranked queue per user, eliminating the manual triage that typically consumes 20-30 minutes per day in team settings. The weights are configurable per project, allowing teams to prioritize speed over value (or vice versa) based on context.
-
-**Why 5 factors:** Fewer than 3 produces trivial rankings (any two tasks with the same deadline become indistinguishable). More than 7 introduces overfitting — the noise from minor factors (task color, assignee preference) begins to dominate the signal.
-
-### Knapsack Daily Planner
-
-The daily planner treats each 8-hour work block as a knapsack with capacity C. Each task has a value v and estimated duration d. The planner selects the subset of tasks that maximizes total value without exceeding capacity:
-
-```
-Given: capacity C (available hours), tasks T with (value, duration)
-Goal: maximize sum(value) subject to sum(duration) <= C
-Approach: greedy value-density sort (value/duration ratio)
-```
-
-This is a fractional knapsack variant — tasks can be partially completed, which maps cleanly to real work patterns (a task estimated at 3 hours can deliver partial value in 2 hours). The greedy approach runs in O(n log n) and produces results within 5% of the optimal DP solution for typical daily workloads.
-
-**Operational value:** Eliminates the 10-15 minute morning planning ritual. The system produces a ranked schedule automatically from existing task data.
-
-### Genkit AI Pipeline Architecture
-
-The CMMI Navigator uses Google Genkit to chain three specialized AI flows:
-
-```
-User Data -> generate-action-items.ts -> phase-specific task list
-User Data -> presentation-generator.ts -> structured slide deck
-User Data -> theme-ai-assistance.ts -> aesthetic feedback
-```
-
-Each flow receives typed input (Zod schema), processes through Gemini 2.5 Flash, and returns typed output. This makes the AI call sites fully type-checked — if the output schema changes, the TypeScript compiler catches every consumer that needs updating.
-
-**Why Genkit over direct API calls:** Schema validation at the flow boundary means malformed AI responses are caught before they reach the UI. Retry logic, streaming, and observability are built into the Genkit runtime rather than being implemented ad-hoc per flow.
-
-### Session Management Algorithm
-
-The college management app uses a 5-day sliding window for session expiry:
-
-```
-on app start:
-  read (userType, lastLogin, studentId) from SharedPreferences
-  
-  if userType exists and lastLogin exists:
-    expiryDelta = now - parse(lastLogin)
-    
-    if expiryDelta.days <= 5:
-      routeToDashboard(userType, studentId)
-      return
-    
-    else:
-      clear cached tokens
-  
-  routeToLogin()
-```
-
-**Why 5 days:** Shorter than 3 days creates excessive re-authentication friction for daily users. Longer than 7 days risks stale sessions on shared devices (common in institutional settings). Five days is the midpoint that balances security with convenience for the college use case.
-
-<br/>
-
-## Architecture
-
-All projects share a consistent architectural pattern:
+Across projects, I use a consistent operational architecture pattern.
 
 ```mermaid
-graph LR
-    subgraph "Client Layer"
-        UI[Flutter UI or Next.js SPA]
-        AT[Auth Token]
-    end
+flowchart LR
+    U[Client Applications\nFlutter or Next.js] --> A[Identity Layer\nFirebase Auth or Supabase Auth]
+    A --> R[Role Resolution\nVisitor, Student, Teacher, Admin, Team Roles]
+    R --> D[(Data Layer\nFirestore or Supabase)]
+    R --> S[Storage Layer\nFirebase Storage or Local Files]
 
-    subgraph "Gate Layer"
-        FB[Firebase Auth or Supabase Auth]
-        SG[Role Resolution - Admin, Teacher, Student]
-    end
+    D --> AL[Deterministic Logic\nRanking, Planning, Session Rules]
+    D --> G[Genkit Flow Layer]
+    G --> M[Gemini 2.5 Flash]
+    M --> G
 
-    subgraph "Data Layer"
-        FS[(Firestore or Supabase DB)]
-        ST[Firebase Storage or Local]
-    end
-
-    subgraph "AI Layer"
-        GK[Genkit AI Middleware]
-        GM[Gemini 2.5 Flash]
-    end
-
-    subgraph "Output"
-        EX[DOCX + PPTX Export or Real-Time Dashboard]
-    end
-
-    UI --> AT
-    AT --> FB
-    FB --> SG
-    SG --> FS
-    SG --> ST
-    FS --> GK
-    GK --> GM
-    GM --> GK
-    GK --> UI
-    FS --> EX
+    AL --> O[Operational Outputs\nDashboards, Lists, Alerts]
+    G --> O
+    D --> E[Export Pipelines\nDOCX, PPTX, PDF]
 ```
 
-### Principles
+### Architectural Principles
 
-**Single Source of Truth:** One `CMMIData` object drives 18 UI sections, 3 AI flows, and 2 export pipelines in the CMMI Navigator. One Firestore document per student drives admin, teacher, and student views simultaneously in the college app.
+1. **Single Source of Truth:** shared canonical model for UI, workflow logic, and exports.
+2. **Role-Aware Boundaries:** access control is enforced from auth to data consumption.
+3. **Real-Time Propagation:** event and state updates push directly to active clients.
+4. **Deterministic Core:** critical planning logic remains algorithmic and testable.
+5. **AI as Bounded Layer:** AI transforms structured data, but does not own system state.
+6. **Output Symmetry:** the same data powers dashboards and exported artifacts.
 
-**Real-Time Sync:** Firestore `onSnapshot` listeners propagate changes across all connected clients without polling. Teacher marks attendance, student dashboard reflects change — same frame cycle.
+### Engineering Tradeoff Patterns
 
-**AI as Pipeline Stage:** Genkit flows transform structured data into structured data. The AI does not own state — it produces typed outputs that the UI renders deterministically. This makes AI integration testable and predictable.
+| Decision | Tradeoff | Why Chosen |
+|:--|:--|:--|
+| Serverless backend (Firebase/Supabase) | Less low-level infra control | High iteration speed for product workflows |
+| Browser-side document generation | Heavy client operations on complex exports | Removes server bottlenecks for content export |
+| Deterministic scoring + AI assistant | Increased architecture complexity | Preserves reliability while enabling flexible interaction |
+| Role-specific dashboards over one generic dashboard | More UI surface area | Better clarity and lower cognitive load per user type |
 
-**Client-Side Export:** DOCX and PPTX generation happens entirely in the browser. No server infrastructure required. The same data model renders the website and produces downloadable files.
+## Automation and Algorithm Intelligence
 
-<br/>
+### 1) 5-Factor Task Priority Sorter
 
-## Stack
+```text
+score = (w1 * deadline_proximity)
+      + (w2 * dependency_count)
+      + (w3 * value_estimate)
+      + (w4 * effort_inverse)
+      + (w5 * blocker_penalty)
+```
 
-| Domain | Technologies | Why |
-|:-------|:-------------|:----|
-| **Frontend** | Next.js, React, Flutter, TypeScript, Tailwind CSS | Production-grade, typed, responsive |
-| **Backend** | Firebase Auth, Cloud Firestore, Supabase, REST APIs | Zero-ops serverless, real-time capable |
-| **AI** | Google Genkit, Gemini 2.5 Flash | Type-safe AI orchestration with typed schemas |
-| **Mobile** | Flutter, Dart | Single codebase for Android + iOS |
-| **Documents** | docx, pptxgenjs | Client-side Word/PowerPoint generation |
-| **Infrastructure** | Vercel, Firebase Hosting | Edge-deployed, auto-scaling |
+**Why it exists:** manual prioritization does not scale under high task volume.
 
-<br/>
+**Operational value:** creates a deterministic execution queue per user/team context.
 
-## GitHub Activity
+### 2) Knapsack-Inspired Daily Planner
+
+```text
+Given:
+  capacity C (available hours)
+  tasks T with value v and duration d
+
+Goal:
+  maximize total value with sum(d) <= C
+
+Approach:
+  sort by value density (v / d) and allocate greedily
+```
+
+**Why it exists:** daily planning overhead compounds across teams.
+
+**Operational value:** compresses planning into an automated ranked schedule.
+
+### 3) Typed Genkit Orchestration Flows
+
+```text
+User Data -> generate-action-items.ts -> phase action plan
+User Data -> presentation-generator.ts -> structured slide content
+User Data -> theme-ai-assistance.ts -> design guidance
+```
+
+**Why it exists:** untyped model outputs increase integration fragility.
+
+**Operational value:** schema-governed outputs improve reliability and maintainability.
+
+### 4) Session Lifecycle Windowing (College App)
+
+```text
+on app launch:
+  read cached identity data
+  if session_age_days <= 5:
+    route to role dashboard
+  else:
+    clear session and route to login
+```
+
+**Why it exists:** institutional users need low friction with controlled session expiry.
+
+**Operational value:** practical balance between usability and access hygiene.
+
+## Engineering Stack
+
+| Layer | Technologies | Why This Layer Matters |
+|:--|:--|:--|
+| **Frontend** | Next.js, React, Flutter, TypeScript, Tailwind CSS | Fast product iteration with typed, maintainable UI systems |
+| **Backend Services** | Firebase Auth, Firestore, Supabase, REST APIs | Low-ops infrastructure with real-time capability |
+| **AI Orchestration** | Google Genkit, Gemini 2.5 Flash | Structured AI integration with typed flow boundaries |
+| **Mobile** | Flutter, Dart | Single codebase for cross-platform product delivery |
+| **Automation Outputs** | docx, pptxgenjs | Business-ready artifacts generated from runtime data |
+| **Hosting and Delivery** | Vercel, Firebase Hosting | Reliable deployment and production iteration speed |
+
+## GitHub Analytics
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aicodebyprince&show_icons=true&hide=contribs&count_private=true&theme=tokyonight&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aicodebyprince&show_icons=true&hide=contribs&count_private=true&theme=default&rank_icon=github" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aicodebyprince&show_icons=true&hide=contribs&count_private=true&theme=default&rank_icon=github" width="400" alt="GitHub stats"/>
   </picture>
-  &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Aicodebyprince&theme=tokyonight">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aicodebyprince&theme=default" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aicodebyprince&theme=default" width="400" alt="GitHub streak"/>
   </picture>
 </p>
 
-<br/>
-
 ## Current Focus
 
-Building the next WebTurnerAI product — an operational dashboard for small consulting firms that tracks client engagements, automates status report generation, and provides a single-pane view across active projects.
+I am currently building the next WebTurnerAI operational platform for consulting teams:
 
-**Technical direction:** Real-time Firestore sync, AI-generated weekly summaries (Genkit), PDF export pipeline, and role-based access for consultants, managers, and clients.
+1. Client engagement tracking from a single operational dashboard.
+2. Automated status report generation from live execution data.
+3. AI-assisted weekly summaries for manager/client visibility.
+4. Role-based access for consultants, managers, and clients.
+5. Export-ready outputs for reporting and stakeholder communication.
 
-<br/>
+## Collaboration
+
+I am open to:
+
+- Backend engineering roles.
+- Workflow automation consulting.
+- Product engineering partnerships.
+- Technical founder collaborations.
 
 ---
 
@@ -382,25 +520,9 @@ Building the next WebTurnerAI product — an operational dashboard for small con
   &nbsp;&middot;&nbsp;
   Founder @ <strong>WebTurnerAI</strong>
   &nbsp;&middot;&nbsp;
-  <a href="https://princebuilds.vercel.app">princebuilds.vercel.app</a>
-</p>
-
-<p align="center">
-  <em>
-    Open to: backend engineering roles &middot; workflow automation consulting &middot; technical founding opportunities
-  </em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/princesherathiya">LinkedIn</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/Aicodebyprince">GitHub</a>
-  &nbsp;&middot;&nbsp;
   <a href="https://princebuilds.vercel.app">Portfolio</a>
   &nbsp;&middot;&nbsp;
-  <code>princesherathiya123@gmail.com</code>
-</p>
-
-<p align="center">
-  <small>MIT License &middot; 2026</small>
+  <a href="https://linkedin.com/in/princesherathiya">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:princesherathiya123@gmail.com">Email</a>
 </p>
